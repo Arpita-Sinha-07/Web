@@ -1,0 +1,42 @@
+.body{
+    color: blanchedalmond;
+}
+
+.hero h1{
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    align-items: center;
+
+}
+
+.hero p{
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    align-items: center;
+    
+}
+
+
+.hero{
+    background-color: black;
+    height: 70vh;
+
+}
+
+.about{
+    background-color: grey;
+    height: 40vh;
+}
+
+.experience{
+    background-color: black;
+    height: 60vh;
+}
+
+.projects{
+    background-color: gray;
+    height: 80vh;
+}
+
